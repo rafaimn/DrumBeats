@@ -8,12 +8,17 @@ To play the sounds, simply click on the keys displayed on the screen or type on 
 
 ## JavaScript Code
 
-The JavaScript code for this project is located in the `script.js` file. It includes event listeners to handle both keyboard and mouse clicks, and functions to play the appropriate drum sound when a key is pressed or clicked. The `playComposition` function allows for the playing of a sequence of drum sounds.
+ It includes event listeners to handle both keyboard and mouse clicks, and functions to play the appropriate drum sound when a key is pressed or clicked. The `playComposition` function allows for the playing of a sequence of drum sounds.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+
+
+
+[Click here to play with the drums and have fun!](https://rafaimn.github.io/DrumBeats/)
+
 
 Thank you for taking the time to check out my project. I hope you found it interesting and insightful. If you have any feedback or questions, please feel free to contact me. Happy drumming!
